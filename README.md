@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sruti Sagar Reddy
 =========================================================================================================================================
 
-Software Developer
+Data Engineer
 -------------
 
-I am a software developer with a passion for creating and solving problems. My expertise lies in Backend Development and designing. I am always looking for challenging projects and opportunities to learn and grow as a professional. On GitHub. Feel free to reach out to me if you want to collaborate on a project or just chat about technology!
+I am a Data Engineer with a passion for creating and solving problems. My expertise lies in Backend Development and designing Applications. I am always looking for challenging projects and opportunities to learn and grow as a professional. On GitHub. Feel free to reach out to me if you want to collaborate on a project or just chat about technology!
 
-* 🌍  I'm a Data Engineer, based in Hyderabad
+* 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [srutisagar7002@gmail.com](mailto:srutisagar7002@gmail.com)
 * 🧠  I'm Deep Diving into AI
 * 🤝  I'm open to collaborating on Projects
