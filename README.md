@@ -6,9 +6,9 @@ Software Developer
 
 I am a software developer with a passion for creating and solving problems. My expertise lies in Backend Development and designing. I am always looking for challenging projects and opportunities to learn and grow as a professional. On GitHub. Feel free to reach out to me if you want to collaborate on a project or just chat about technology!
 
-* 🌍  I'm based in Hyderabad
+* 🌍  I'm a Data Engineer, based in Hyderabad
 * ✉️  You can contact me at [srutisagar7002@gmail.com](mailto:srutisagar7002@gmail.com)
-* 🧠  I'm learning Full Stack Web Development
+* 🧠  I'm Deep Diving into AI
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
